@@ -5,6 +5,7 @@
 # AI
 - [LangChain4j](https://docs.langchain4j.dev) [GitHub](https://github.com/langchain4j/langchain4j) - AI Integration
 - [Koog](https://github.com/JetBrains/koog) - Koog - Jetbrains AI Agent Framework
+- [Embabel](https://github.com/embabel) - Embabel - AI Agents in Java/Kotlin
 
 # Pyhton
 - [Taipy](https://taipy.io) [GitHub](https://github.com/Avaiga/taipy) - Build Python Data & BI web applications
