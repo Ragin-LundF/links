@@ -7,6 +7,9 @@
 - [Koog](https://github.com/JetBrains/koog) - Koog - Jetbrains AI Agent Framework
 - [Embabel](https://github.com/embabel) - Embabel - AI Agents in Java/Kotlin
 
+# JavaScript
+- [TurboRepo](https://github.com/vercel/turborepo) - Alternative Package manager
+
 # Pyhton
 - [Taipy](https://taipy.io) [GitHub](https://github.com/Avaiga/taipy) - Build Python Data & BI web applications
 
