@@ -8,10 +8,11 @@
 - [Embabel](https://github.com/embabel) - Embabel - AI Agents in Java/Kotlin
 
 # JavaScript
-- [TurboRepo](https://github.com/vercel/turborepo) - Alternative Package manager
+- [TurboRepo](https://github.com/vercel/turborepo) - Monorepo management
 
 # Pyhton
 - [Taipy](https://taipy.io) [GitHub](https://github.com/Avaiga/taipy) - Build Python Data & BI web applications
 
 # Tools
 - [Hoppscotch](https://hoppscotch.io) - Postman Alternative
+- [Testsprite](https://www.testsprite.com) - Testing tool (remote or MCP)
