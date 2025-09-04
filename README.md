@@ -7,11 +7,18 @@
 - [Koog](https://github.com/JetBrains/koog) - Koog - Jetbrains AI Agent Framework
 - [Embabel](https://github.com/embabel) - Embabel - AI Agents in Java/Kotlin
 
+# Kotlin/Java
+- [KotlinPoet](https://square.github.io/kotlinpoet) - API for generating .kt files
+- [Smithy](https://smithy.io) [GitHub](https://github.com/smithy-lang/smithy) - Model and Build SDKs
+
 # JavaScript
 - [TurboRepo](https://github.com/vercel/turborepo) - Monorepo management
 
 # Pyhton
 - [Taipy](https://taipy.io) [GitHub](https://github.com/Avaiga/taipy) - Build Python Data & BI web applications
+
+# Formats / Protocols
+- [CBOR](https://cbor.io) - Concise Binary Object Representation
 
 # Tools
 - [Hoppscotch](https://hoppscotch.io) - Postman Alternative
