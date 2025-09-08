@@ -7,6 +7,7 @@
 - [Koog](https://github.com/JetBrains/koog) - Koog - Jetbrains AI Agent Framework
 - [Embabel](https://github.com/embabel) - Embabel - AI Agents in Java/Kotlin
 - [SpecKit](https://github.com/github/spec-kit) - Spec Kit - Prepares project specifications for AI Coding agents [YT](https://www.youtube.com/watch?v=em3vIT9aUsg)
+- [Kiro IDE](https://kiro.dev) - Kiro IDE (VS Code Fork with integrated Spec AI to create specs for AI Coding agents [YT](https://www.youtube.com/watch?v=Z9fUPyowRLI)
 
 # Kotlin/Java
 - [KotlinPoet](https://square.github.io/kotlinpoet) - API for generating .kt files
