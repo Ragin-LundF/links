@@ -6,6 +6,7 @@
 - [LangChain4j](https://docs.langchain4j.dev) [GitHub](https://github.com/langchain4j/langchain4j) - AI Integration
 - [Koog](https://github.com/JetBrains/koog) - Koog - Jetbrains AI Agent Framework
 - [Embabel](https://github.com/embabel) - Embabel - AI Agents in Java/Kotlin
+- [SpecKit](https://github.com/github/spec-kit) - Spec Kit - Prepares project specifications for AI Coding agents [YT](https://www.youtube.com/watch?v=em3vIT9aUsg)
 
 # Kotlin/Java
 - [KotlinPoet](https://square.github.io/kotlinpoet) - API for generating .kt files
