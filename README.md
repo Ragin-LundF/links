@@ -26,3 +26,6 @@
 - [Hoppscotch](https://hoppscotch.io) - Postman Alternative
 - [Testsprite](https://www.testsprite.com) - Testing tool (remote or MCP)
 - [Forgejo](https://forgejo.org) - All-in-one Git and repository solution
+
+# Security
+- [Trivy Scanner](https://trivy.dev)  Trivy Scanner for images, binaries, K8S...
