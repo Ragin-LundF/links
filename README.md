@@ -3,6 +3,7 @@
 - [HTMX](https://htmx.org) ([GitHub](https://github.com/bigskysoftware/htmx)) - Simple, efficient Framework for UI
 
 # AI
+- [Mammouth AI](https://mammouth.ai) - Misc. AI models for 10$/month
 - [LangChain4j](https://docs.langchain4j.dev) [GitHub](https://github.com/langchain4j/langchain4j) - AI Integration
 - [Koog](https://github.com/JetBrains/koog) - Koog - Jetbrains AI Agent Framework
 - [Embabel](https://github.com/embabel) - Embabel - AI Agents in Java/Kotlin
