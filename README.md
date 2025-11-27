@@ -30,5 +30,9 @@
 - [Forgejo](https://forgejo.org) - All-in-one Git and repository solution
 - [Papra](https://papra.app/en) [GitHub](https://github.com/papra-hq/papra) - Document Management System
 
+# Server Management
+- [Coolify](https://coolify.io) [GitHub](https://github.com/coollabsio/coolify) - Server Deployment Management
+- [Dokploy](https://dokploy.com) [GitHub](https://github.com/dokploy/dokploy) - Docker Deployment Managemnt
+
 # Security
 - [Trivy Scanner](https://trivy.dev)  Trivy Scanner for images, binaries, K8S...
