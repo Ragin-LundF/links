@@ -15,6 +15,7 @@
 - [KotlinPoet](https://square.github.io/kotlinpoet) - API for generating .kt files
 - [Smithy](https://smithy.io) [GitHub](https://github.com/smithy-lang/smithy) - Model and Build SDKs
 - [Kotweb](https://kobweb.varabyte.com) [GitHub](https://kobweb.varabyte.com) - HTML in Kotlin
+- [JBang](https://www.jbang.dev) ([GitHub](https://github.com/jbangdev)) - JBang - Execute Java like scripts
 
 # JavaScript
 - [TurboRepo](https://github.com/vercel/turborepo) - Monorepo management
