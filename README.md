@@ -31,6 +31,7 @@
 - [Testsprite](https://www.testsprite.com) - Testing tool (remote or MCP)
 - [Forgejo](https://forgejo.org) - All-in-one Git and repository solution
 - [Papra](https://papra.app/en) [GitHub](https://github.com/papra-hq/papra) - Document Management System
+- [Trivy](https://trivy.dev) - Security Scanner (Container, Misconfigurations,...)
 
 # Server Management
 - [Coolify](https://coolify.io) [GitHub](https://github.com/coollabsio/coolify) - Server Deployment Management
