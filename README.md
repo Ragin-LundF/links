@@ -32,6 +32,7 @@
 - [Forgejo](https://forgejo.org) - All-in-one Git and repository solution
 - [Papra](https://papra.app/en) [GitHub](https://github.com/papra-hq/papra) - Document Management System
 - [Trivy](https://trivy.dev) - Security Scanner (Container, Misconfigurations,...)
+- [Ventory](https://www.ventoy.net/en/index.html) ([SourceForge](https://sourceforge.net/projects/ventoy/files/)) - ISO Boot Tool (multi ISO select from boot menu)
 
 # Server Management
 - [Coolify](https://coolify.io) [GitHub](https://github.com/coollabsio/coolify) - Server Deployment Management
