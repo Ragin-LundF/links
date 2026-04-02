@@ -11,6 +11,16 @@
 - [SpecKit](https://github.com/github/spec-kit) - Spec Kit - Prepares project specifications for AI Coding agents [YT](https://www.youtube.com/watch?v=em3vIT9aUsg)
 - [Kiro IDE](https://kiro.dev) - Kiro IDE (VS Code Fork with integrated Spec AI to create specs for AI Coding agents [YT](https://www.youtube.com/watch?v=Z9fUPyowRLI)
 
+# AI Code
+- [Medium Article - Using Claude Skills for Spring Boot](https://medium.com/@senoritadeveloper/using-claude-skills-in-a-spring-boot-project-with-intellij-idea-5a98003a121d) - Using Claude Skills in a Spring Boot Project with IntelliJ IDEA
+- [Antrophic Claude Skills](https://github.com/anthropics/skills) - Official Baseline Skills from Antrophic/Claude for coding
+- [Spring Boot Skills for Claude](https://github.com/jdubois/dr-jskill) - Claude Skills for Spring Boot from jdubois (jHipster)
+- [Everything Claude](https://github.com/affaan-m/everything-claude-code) - Spring Boot + Engineering discipline baked into Claude (TDD, security, verification,... skills)
+- [Awesome Claude Skills](https://github.com/travisvn/awesome-claude-skills) - Links for curated Claude Skills
+- [Claude Skills](https://github.com/alirezarezvani/claude-skills) - Massive Production-Ready Skill Library, enterprise ready
+- [Spring AI Agent Utils](https://github.com/spring-ai-community/spring-ai-agent-utils) - A Spring AI library that brings Claude Code-inspired tools and agent skills to your AI applications.
+- [Spring Modulith–Focused Skills](https://github.com/sivaprasadreddy/sivalabs-agent-skills) - A collection of skills/guidelines for building applications using AI Agents.
+
 # Kotlin/Java
 - [KotlinPoet](https://square.github.io/kotlinpoet) - API for generating .kt files
 - [Smithy](https://smithy.io) [GitHub](https://github.com/smithy-lang/smithy) - Model and Build SDKs
