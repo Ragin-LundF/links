@@ -49,4 +49,5 @@
 - [Dokploy](https://dokploy.com) [GitHub](https://github.com/dokploy/dokploy) - Docker Deployment Managemnt
 
 # Security
-- [Trivy Scanner](https://trivy.dev)  Trivy Scanner for images, binaries, K8S...
+- [Trivy Scanner](https://trivy.dev) - Trivy Scanner for images, binaries, K8S...
+- [Permify](https://github.com/Permify/permify) - Permify authorization service, inspired by [Google Zanzibar](https://permify.co/post/google-zanzibar-in-a-nutshell/)
