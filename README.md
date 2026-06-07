@@ -27,6 +27,7 @@
 - [Kotweb](https://kobweb.varabyte.com) [GitHub](https://kobweb.varabyte.com) - HTML in Kotlin
 - [JBang](https://www.jbang.dev) ([GitHub](https://github.com/jbangdev)) - JBang - Execute Java like scripts
 - [FastGraph](https://github.com/sooniln/fastgraph) - FastGraph - Very efficient graph library
+- [Poko](https://github.com/drewhamilton/Poko) - data class like regular classes with annotation for `toString()`, `equals()` and `hashCode()` implementation.
 
 # JavaScript
 - [TurboRepo](https://github.com/vercel/turborepo) - Monorepo management
