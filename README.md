@@ -20,6 +20,7 @@
 - [Claude Skills](https://github.com/alirezarezvani/claude-skills) - Massive Production-Ready Skill Library, enterprise ready
 - [Spring AI Agent Utils](https://github.com/spring-ai-community/spring-ai-agent-utils) - A Spring AI library that brings Claude Code-inspired tools and agent skills to your AI applications.
 - [Spring Modulith–Focused Skills](https://github.com/sivaprasadreddy/sivalabs-agent-skills) - A collection of skills/guidelines for building applications using AI Agents.
+- [Codebase Memory MCP](https://github.com/DeusData/codebase-memory-mcp) - Fast local indexer for codebases to save up to 90% tokens for AI agents
 
 # Kotlin/Java
 - [KotlinPoet](https://square.github.io/kotlinpoet) - API for generating .kt files
