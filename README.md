@@ -22,6 +22,8 @@
 - [Spring Modulith–Focused Skills](https://github.com/sivaprasadreddy/sivalabs-agent-skills) - A collection of skills/guidelines for building applications using AI Agents.
 - [Codebase Memory MCP](https://github.com/DeusData/codebase-memory-mcp) - Fast local indexer for codebases to save up to 90% tokens for AI agents
 - [SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOptimizer
+- [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - local router to >200 free AI providers
+- [Headroom](https://github.com/headroomlabs-ai/headroom) - Compress messages with a proxy to save tokens
 
 # Kotlin/Java
 - [KotlinPoet](https://square.github.io/kotlinpoet) - API for generating .kt files
