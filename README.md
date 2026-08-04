@@ -36,6 +36,7 @@
 
 # JavaScript
 - [TurboRepo](https://github.com/vercel/turborepo) - Monorepo management
+- [Canvas UI](https://canvasui.dev) - Canvas effects on HTML site
 
 # Pyhton
 - [Taipy](https://taipy.io) [GitHub](https://github.com/Avaiga/taipy) - Build Python Data & BI web applications
