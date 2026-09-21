@@ -25,6 +25,7 @@
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - local router to >200 free AI providers
 - [Headroom](https://github.com/headroomlabs-ai/headroom) - Compress messages with a proxy to save tokens
 - [LLM Prompt Tests](https://github.com/Arnie936/llm-prompting-tests) - Arnie936 Prompts for LLM testing
+- [OpenJev](https://github.com/SiliconLabAI/OpenJev) - Decision AI
 
 # Kotlin/Java
 - [KotlinPoet](https://square.github.io/kotlinpoet) - API for generating .kt files
