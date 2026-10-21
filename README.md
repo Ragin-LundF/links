@@ -10,6 +10,7 @@
 - [Embabel](https://github.com/embabel) - Embabel - AI Agents in Java/Kotlin
 - [SpecKit](https://github.com/github/spec-kit) - Spec Kit - Prepares project specifications for AI Coding agents [YT](https://www.youtube.com/watch?v=em3vIT9aUsg)
 - [Kiro IDE](https://kiro.dev) - Kiro IDE (VS Code Fork with integrated Spec AI to create specs for AI Coding agents [YT](https://www.youtube.com/watch?v=Z9fUPyowRLI)
+- [Strata](https://github.com/niko1221/strata) - Strate LLM runner. Can run larger models on local machines
 
 # AI Code
 - [Medium Article - Using Claude Skills for Spring Boot](https://medium.com/@senoritadeveloper/using-claude-skills-in-a-spring-boot-project-with-intellij-idea-5a98003a121d) - Using Claude Skills in a Spring Boot Project with IntelliJ IDEA
